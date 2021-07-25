@@ -4,7 +4,7 @@
 #### * Open the RIDE IDE
 #### * Import the project Auto1
 #### * Use the run option inside RIDE IDE
-#### * It will the serach functionality feature
+#### * It will run the serach functionality feature
 #### * To see the test case report, click on Report option from menu
 #### * It will download the report file into your local device
 
