@@ -8,13 +8,4 @@
 #### * To see the test case report, click on Report option from menu
 #### * It will download the report file into your local device
 
-###### Note: Please check the test case file filetred serach to check the keywords used to automate.
-
-
-
-
-
-
-
-
-
+###### Note: Please check the test case file "filetred search" to check the keywords used to automate.
